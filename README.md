@@ -33,7 +33,8 @@ streamlit run app.py
 1. Select the websites you want to search on the sidebar
 1. Click the "Search" button
 
-Screenshots
+Screenshot
+![image](https://user-images.githubusercontent.com/92166609/209479702-f772af4f-e405-44ae-a0ab-ceaf7cd653ca.png)
 
 Built With
 
