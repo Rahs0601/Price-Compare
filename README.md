@@ -4,17 +4,17 @@ This is a web scraper that allows you to search for products on multiple website
 
 Prerequisites
 
-- `	`Python 3
-- `	`Beautiful Soup 4
-- `	`requests
-- `	`streamlit
-- `	`fake-useragent (optional)
+- Python 3
+- Beautiful Soup 4
+- requests
+- streamlit
+- fake-useragent (optional)
 
 Installing
 
-1. `	`Clone or download the repository
-1. `	`Navigate to the project directory
-1. `	`Install the required libraries:
+1. Clone or download the repository
+1. Navigate to the project directory
+1. Install the required libraries:
 
 Copy code
 
@@ -22,24 +22,23 @@ pip install -r requirements.txt
 
 Running the app
 
-1. `	`Run the following command:
+1. Run the following command:
 
 Copy code
 
 streamlit run app.py
 
-1. `	`The app will open in your default browser
-1. `	`Enter the name of the product you want to search for in the text input field
-1. `	`Select the websites you want to search on the sidebar
-1. `	`Click the "Search" button
+1. The app will open in your default browser
+1. Enter the name of the product you want to search for in the text input field
+1. Select the websites you want to search on the sidebar
+1. Click the "Search" button
 
 Screenshots
-![image](https://user-images.githubusercontent.com/92166609/209479670-04411377-4d52-4a9c-b8c4-17fba2b67ec3.png)
 
 Built With
 
-- `	`Beautiful Soup - HTML parsing library
-- `	`requests - HTTP library
-- `	`streamlit - App framework
-- `	`fake-useragent - Library for generating fake user agents (optional)
+- Beautiful Soup - HTML parsing library
+- requests - HTTP library
+- streamlit - App framework
+- fake-useragent - Library for generating fake user agents (optional)
 
